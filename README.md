@@ -116,4 +116,8 @@ California Public Utilities Commission. (2021). Electric Vehicles. Retrieved fro
 
 Office of Governor Gavin Newsom. (2020). Executive Order N-79-20. Retrieved from https://www.gov.ca.gov/2020/09/23/governor-newsom-announces-california-will-phase-out-gasoline-powered-cars-drastically-reduce-demand-for-fossil-fuel-in-californias-fight-against-climate-change/
 
+U.S. Census Bureau. "MEANS OF TRANSPORTATION TO WORK BY SELECTED CHARACTERISTICS." American Community Survey, ACS 5-Year Estimates Subject Tables, Table S0802, 2021, https://data.census.gov/table/ACSST5Y2021.S0802?t=Commuting&g=010XX00US$0400000. Accessed on May 7, 2024.
+
 U.S. Environmental Protection Agency. (2021). Federal Vehicle Emissions Standards. Retrieved from https://www.epa.gov/regulations-emissions-vehicles-and-engines/regulations-greenhouse-gas-emissions-passenger-cars-and
+
+U.S. Environmental Protection Agency. (2022). Inventory of U.S. Greenhouse Gas Emissions and Sinks. Retrieved from https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks
