@@ -32,7 +32,8 @@ I break down this research question into two smaller parts, asking:
 
 ## Data and Methodology
 
-To answer these questions, I have employed various methodologies. 
+To answer these questions, I employed various methodologies. First, I conducted a simple Pearson’s correlation between variables of interest related to commute time and GHG emissions. This resulted in correlation coefficients and associated p-values that give insight into the relationship between the variables as well as the statistical significance of that relationship. I also conducted a qualitative review of the main policies associated with transportation emissions reductions in California. After identifying these policies, I conducted a difference-in-difference time series analysis on GHG emissions analyzing the effect of the policies on GHG emissions in California. The results show T-statistics and associated p-values that give a sense of the strength of the relationship and the statistical significance. 
+I utilize two main data sources for this analysis. First, I used data from the US Census Bureau American Community Survey. Specifically, I used 5-yr estimates from the 2021 survey to find mean commute times by state. Second, I used data from the US Environmental Protection Agency’s (EPA) Inventory of U.S. Greenhouse Gas Emissions and Sinks to find greenhouse gas emissions by state. 
 
 ## Analysis
 ### Does reducing commute times have a significant impact on GHG emissions?
